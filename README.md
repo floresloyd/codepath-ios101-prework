@@ -27,9 +27,9 @@ Brainstorm
        - real time call and video call integration
        - smooth animations when transitioning through pages
     3. radio garden
-      - beautiful ui with 3d model of the globe
-      - very fast api
-      - smooth
+       - beautiful ui with 3d model of the globe
+       - very fast api
+       - smooth
 
 - Apps I would like to build
   1. Goutpal -- intensive diet pocketbook for people who have gout. It will have a list of foods with high purine but also have the option to take a photo of your food and it will identify if it can trigger gout
