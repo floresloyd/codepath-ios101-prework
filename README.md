@@ -10,6 +10,10 @@ Requirement Checklist
 
 ✅ The screen has a background color that can changes when the button is tapped
 
+
+--------------------------------------------------------------------------------------------
+Demo
+![demo-gif](https://github.com/floresloyd/codepath-ios101-prework/blob/main/gif-codepath.gif)
 --------------------------------------------------------------------------------------------
 Brainstorm
 
