@@ -17,17 +17,20 @@ Demo
 --------------------------------------------------------------------------------------------
 Brainstorm
 
-1. Camera
-  - Automatic animal and plant detection
-  - qr recognition
-  - simple ui 
+- Apps & features I like about them
+    1. Camera
+      - Automatic animal and plant detection
+      - qr recognition
+      - simple ui 
+    2. discord mobile
+       - compact ui that fits a lot of the desktop features onto the phone
+       - real time call and video call integration
+       - smooth animations when transitioning through pages
+    3. radio garden
+      - beautiful ui with 3d model of the globe
+      - very fast api
+      - smooth
 
-2. discord mobile
-   - compact ui that fits a lot of the desktop features onto the phone
-   - real time call and video call integration
-   - smooth animations when transitioning through pages
-  
-3. radio garden
-  - beautiful ui with 3d model of the globe
-  - very fast api
-  - smooth
+- Apps I would like to build
+  1. Goutpal -- intensive diet pocketbook for people who have gout. It will have a list of foods with high purine but also have the option to take a photo of your food and it will identify if it can trigger gout
+  2. animaldex -- a way for people to take pictures of animals they see and have a portable collection of all the animals and species they ever seen just like a pokedex
